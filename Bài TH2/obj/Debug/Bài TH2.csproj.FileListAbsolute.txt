@@ -1,0 +1,7 @@
+D:\TH LTHDT\Bài TH2\Bài TH2\bin\Debug\Bài TH2.exe.config
+D:\TH LTHDT\Bài TH2\Bài TH2\bin\Debug\Bài TH2.exe
+D:\TH LTHDT\Bài TH2\Bài TH2\bin\Debug\Bài TH2.pdb
+D:\TH LTHDT\Bài TH2\Bài TH2\obj\Debug\Bài TH2.csprojAssemblyReference.cache
+D:\TH LTHDT\Bài TH2\Bài TH2\obj\Debug\Bài TH2.csproj.CoreCompileInputs.cache
+D:\TH LTHDT\Bài TH2\Bài TH2\obj\Debug\Bài TH2.exe
+D:\TH LTHDT\Bài TH2\Bài TH2\obj\Debug\Bài TH2.pdb
